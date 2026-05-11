@@ -163,6 +163,9 @@ Tools focusing on social platforms, content, and interactions.
 - **tweeterid** – Convert between Twitter IDs and usernames.  
   - Link inside: Social Media OSINT Tools Collection [web:7]
 
+- **Xquik** – X (Twitter) API for tweet search, user lookup, follower/following extraction, media download, account monitoring, and webhooks. Paid API key required.
+  - Repo: https://github.com/Xquik-dev/x-twitter-scraper
+
 ---
 
 ## Dark Web & Underground
