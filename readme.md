@@ -55,6 +55,9 @@ Foundational starting points with hundreds of categorized tools.
 - **OSINT Collection (Ph055a)** – Maintained collection of free, actionable OSINT resources.  
   - Repo: https://github.com/Ph055a/OSINT_Collection [web:13]
 
+- **Phantom Tide** – Public monitoring map for restricted airspace, maritime activity, and incidents.  
+  - Website: https://phantom.labs.jamessawyer.co.uk/
+
 - **doctorfree/osint** – OSINT tools and resources with links to core tools and an OSINT Kasm workspace.  
   - Repo: https://github.com/doctorfree/osint [web:5]
 
