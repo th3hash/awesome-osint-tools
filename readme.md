@@ -160,6 +160,9 @@ Tools focusing on social platforms, content, and interactions.
 - **Social Media OSINT Tools Collection (SOCINT)** – Curated list of tools specifically for social media intelligence.  
   - Website: https://osintambition.github.io/Social-Media-OSINT-Tools-Collection [web:7]
 
+- **Xquik** – X/Twitter OSINT platform for tweet search, profile export, media download, monitoring, webhooks, and REST API access.
+  - Website: https://xquik.com
+
 - **tweeterid** – Convert between Twitter IDs and usernames.  
   - Link inside: Social Media OSINT Tools Collection [web:7]
 
