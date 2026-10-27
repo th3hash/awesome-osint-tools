@@ -163,6 +163,10 @@ Tools focusing on social platforms, content, and interactions.
 - **tweeterid** – Convert between Twitter IDs and usernames.  
   - Link inside: Social Media OSINT Tools Collection [web:7]
 
+- **twtData X Trends Archive** – Daily X (Twitter) trending topics by country, archived by date.  
+  - Website: https://twtdata.com/twitter-trends/
+  - Free to browse.
+
 ---
 
 ## Dark Web & Underground
